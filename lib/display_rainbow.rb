@@ -2,3 +2,4 @@
 
 def display_rainbow
   print "red"
+  print
